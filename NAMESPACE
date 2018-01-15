@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(curl)
+import(jsonlite)
+importFrom("utils", "URLencode")
